@@ -36,7 +36,7 @@ namespace Speedometer
 
         private void AboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Test");
+            MessageBox.Show("please Go to https://github.com/cyberman42/Speed-O-Meter");
         }
 
         public void MainWindow_Load(object sender, EventArgs e)
